@@ -27,5 +27,5 @@ this code needs to be used together with the code in the repository glove in ord
 2: read and write mode: RAW mode (without any change on the data transmitted and all the data is transmitted in the form of char)
 
 
-//yeti
+//yeti comes down from the jokul~~
 
