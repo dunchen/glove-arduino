@@ -7,6 +7,8 @@ author: dunchen
 
 the code for the arduino embeded on the glove
 
+this code needs to be used together with the code in the repository glove in order to get the interaction between the user and the computer display
+
 ###what's the arduino chip task
 1: give power to the red LED, which will be the detect center of the camera. this would provide the two dimensional location of the hand.
 2: drive the Ultrasonic Range Finder, which would give the distance between the hand and the screen. here we get the third dimensioanl location of the hand.
